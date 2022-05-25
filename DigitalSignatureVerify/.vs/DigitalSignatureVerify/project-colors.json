@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1e6ab7b-7dc9-49e7-b5c6-d5fca59a56da": {
+      "ProjectGuid": "d1e6ab7b-7dc9-49e7-b5c6-d5fca59a56da",
+      "DisplayName": "DigitalSignatureVerify",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

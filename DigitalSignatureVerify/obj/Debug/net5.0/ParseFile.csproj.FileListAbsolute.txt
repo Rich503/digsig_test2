@@ -1,0 +1,16 @@
+C:\c#_progs\ParseFile\obj\Debug\net5.0\ParseFile.csprojAssemblyReference.cache
+C:\c#_progs\ParseFile\obj\Debug\net5.0\ParseFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#_progs\ParseFile\obj\Debug\net5.0\ParseFile.AssemblyInfoInputs.cache
+C:\c#_progs\ParseFile\obj\Debug\net5.0\ParseFile.AssemblyInfo.cs
+C:\c#_progs\ParseFile\obj\Debug\net5.0\ParseFile.csproj.CoreCompileInputs.cache
+C:\c#_progs\ParseFile\bin\Debug\net5.0\ParseFile.exe
+C:\c#_progs\ParseFile\bin\Debug\net5.0\ParseFile.deps.json
+C:\c#_progs\ParseFile\bin\Debug\net5.0\ParseFile.runtimeconfig.json
+C:\c#_progs\ParseFile\bin\Debug\net5.0\ParseFile.runtimeconfig.dev.json
+C:\c#_progs\ParseFile\bin\Debug\net5.0\ParseFile.dll
+C:\c#_progs\ParseFile\bin\Debug\net5.0\ref\ParseFile.dll
+C:\c#_progs\ParseFile\bin\Debug\net5.0\ParseFile.pdb
+C:\c#_progs\ParseFile\obj\Debug\net5.0\ParseFile.dll
+C:\c#_progs\ParseFile\obj\Debug\net5.0\ref\ParseFile.dll
+C:\c#_progs\ParseFile\obj\Debug\net5.0\ParseFile.pdb
+C:\c#_progs\ParseFile\obj\Debug\net5.0\ParseFile.genruntimeconfig.cache

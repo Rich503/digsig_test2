@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DigitalSignatureVerify": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\test_folder2\\Shared -criteriaFile C:\\file_test1\\digsig_criteria.txt -extensions \"exe,config,*\" "
+    }
+  }
+}

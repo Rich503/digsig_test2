@@ -60,11 +60,6 @@ namespace DigitalSignatureVerify
     //      refactor returnType to use enums instead of strings
     //
 
-    /*
-    Misc Notes:
-
-    */
-
 
 
     enum returnValues { TRUE, FALSE, NOT_SIGNED, FILE_DOESNT_EXIST, ILLEGAL_FILE_TYPE, FILE_NOT_EXIST, UNKNOWN_ERROR_WITH_FILE }

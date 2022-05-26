@@ -49,7 +49,7 @@ namespace DigitalSignatureVerify
     //      read all files from a folder (recursively) or list of files in -listFile -DONE
     //      allow user to ignore specific criteria to check -DONE
     //      determine why "Valid to" date is failing (when check 20.5.1 file AB.exe)
-    //      add cmd line option on which file extensions to check (i.e. *.exe *.dll *.cab)
+    //      add cmd line option on which file extensions to check (i.e. *.exe *.dll *.cab) -DONE
     //      send info into logging file
     //      put file(s) to verify in a List and call one method to verify each file in list  --RGD??? is this ia good idea?
     //      put code into GitHub

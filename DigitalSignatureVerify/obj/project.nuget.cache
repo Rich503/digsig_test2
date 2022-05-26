@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FZskdJnnsgfwhFiSurYFHt7E4vkEKLq5jfkdoUgu2o31e5ad9lPjlomCoWrEGOpVlMagUt6E8/14DQcYBHTqUw==",
+  "dgSpecHash": "AzpHrapPvhovn3LY32f63dOlgdgsNGNb4GLrxYord1XdtAeS1T/zf0gsVzjxWiZLNmsru/aMFCk9vYdnPYcRkg==",
   "success": true,
-  "projectFilePath": "C:\\c#_progs\\DigitalSignatureVerify\\DigitalSignatureVerify.csproj",
+  "projectFilePath": "C:\\repo_test2\\DigitalSignatureVerify\\DigitalSignatureVerify.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RICHA10626\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\RICHA10626\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

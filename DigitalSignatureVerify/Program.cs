@@ -57,6 +57,7 @@ namespace DigitalSignatureVerify
     //      change extensions to all allow all file types
     //      move xxxCnt fields to globalService class
     //      add return type to screen for file "File is unsigned"
+    //      refactor returnType to use enums instead of strings
     //
 
     /*

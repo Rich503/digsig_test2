@@ -4732,11 +4732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\c#_progs\\DigitalSignatureVerify\\DigitalSignatureVerify.csproj",
+      "projectUniqueName": "C:\\repo_test2\\DigitalSignatureVerify\\DigitalSignatureVerify.csproj",
       "projectName": "DigitalSignatureVerify",
-      "projectPath": "C:\\c#_progs\\DigitalSignatureVerify\\DigitalSignatureVerify.csproj",
+      "projectPath": "C:\\repo_test2\\DigitalSignatureVerify\\DigitalSignatureVerify.csproj",
       "packagesPath": "C:\\Users\\RICHA10626\\.nuget\\packages\\",
-      "outputPath": "C:\\c#_progs\\DigitalSignatureVerify\\obj\\",
+      "outputPath": "C:\\repo_test2\\DigitalSignatureVerify\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RICHA10626\\AppData\\Roaming\\NuGet\\NuGet.Config",
